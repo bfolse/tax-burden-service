@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<POLITICAL_DIVISION id="1001" fips="13" name="GA" description="Georgia" type="STATE"/>	
+	<POLITICAL_DIVISION id="1002" fips="089" name="Dekalb" description="Dekalb County" type="COUNTY"/>	
+</dataset>

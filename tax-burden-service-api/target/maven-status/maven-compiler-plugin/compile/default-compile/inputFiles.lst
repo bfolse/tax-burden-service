@@ -1,0 +1,9 @@
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/TaxBurdenService.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/TaxPayerProfile.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/TaxBurdenServiceREST.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/TaxType.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/PostalCodePoliticalDivision.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/MonetaryAmount.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/TaxEntry.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/TaxBurdenReport.java
+/Users/brian/IdeaProjects/tax-burden-service/tax-burden-service-api/src/main/java/com/ttb/service/taxburden/domain/PoliticalDivision.java

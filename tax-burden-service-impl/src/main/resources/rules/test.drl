@@ -1,0 +1,8 @@
+package com.ttb.service.taxburden
+
+rule "Valid TaxPayerProfile"
+when
+    $tpp : TaxPayerProfile( annualIncome < 0 )
+then
+    $ttp.setValid( false );
+end

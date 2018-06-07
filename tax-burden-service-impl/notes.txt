@@ -1,0 +1,5 @@
+Property Tax Calculation
+Millage - One mill = $1 per $1000 of property value
+Georgia county avg = 30 mils
+Property tax based on assessed value
+Georgia assessed value = 40% of fair market value

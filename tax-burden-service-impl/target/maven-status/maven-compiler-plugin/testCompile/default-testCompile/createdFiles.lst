@@ -1,0 +1,16 @@
+com/ttb/service/taxburden/TaxDefinitionRepositoryTest.class
+com/ttb/service/taxburden/SalesTaxCalculatorTest.class
+com/ttb/service/taxburden/TaxRateFlatRepositoryTest.class
+com/ttb/service/taxburden/PoliticalDivisionRepositoryTest.class
+com/ttb/service/taxburden/ExpenditureCategoryRepositoryTest.class
+com/ttb/service/taxburden/ExpenditureCategoryGroupRepositoryTest.class
+com/ttb/service/taxburden/TaxPayerProfileRepositoryTest.class
+com/ttb/service/taxburden/MockTaxCalculator.class
+com/ttb/service/taxburden/TaxBurdenServiceImplApplicationTests.class
+com/ttb/service/taxburden/TaxDefinitionExpenditureCategoryRepositoryTest.class
+com/ttb/service/taxburden/PostalCodePoliticalDivisionRepositoryTest.class
+com/ttb/service/taxburden/IncomeTaxFlatRateCalculatorTest.class
+com/ttb/service/taxburden/ConsumerExpenditureProfileRepositoryTest.class
+com/ttb/service/taxburden/TaxBurdenReportRepositoryTest.class
+com/ttb/service/taxburden/AssessedRateRepositoryTest.class
+com/ttb/service/taxburden/TaxBurdenServiceImplTest.class

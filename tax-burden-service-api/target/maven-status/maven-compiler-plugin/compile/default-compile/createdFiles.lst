@@ -1,0 +1,9 @@
+com/ttb/service/taxburden/domain/TaxPayerProfile.class
+com/ttb/service/taxburden/domain/PoliticalDivision.class
+com/ttb/service/taxburden/TaxBurdenServiceREST.class
+com/ttb/service/taxburden/TaxBurdenService.class
+com/ttb/service/taxburden/domain/TaxType.class
+com/ttb/service/taxburden/domain/TaxBurdenReport.class
+com/ttb/service/taxburden/domain/PostalCodePoliticalDivision.class
+com/ttb/service/taxburden/domain/MonetaryAmount.class
+com/ttb/service/taxburden/domain/TaxEntry.class

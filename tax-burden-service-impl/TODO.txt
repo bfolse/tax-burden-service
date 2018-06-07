@@ -1,0 +1,4 @@
+Add unit test for PropertyTaxFlatRateCalculator
+Break down property tax components for separate city, state, school district, etc.
+ (currently using SmartAsset.com median percentage values based on full appraisal value)
+Figure out how to calculate county/city combined property tax
