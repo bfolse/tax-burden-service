@@ -22,8 +22,8 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/tax-burden-service-api-0.0.1-SNAPSHOT.jar
-    - target/tax-burden-service-impl-0.0.1-SNAPSHOT.jar
+    - tax-burden-service-api/target/tax-burden-service-api-0.0.1-SNAPSHOT.jar
+    - tax-burden-service-impl/target/tax-burden-service-impl-0.0.1-SNAPSHOT.jar
   discard-paths: yes
 cache:
   paths:
